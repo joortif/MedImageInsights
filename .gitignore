@@ -1,0 +1,12 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.venv
+
+MedImageInsights/v20240927/vision_model/
+tests/
+.idea/
