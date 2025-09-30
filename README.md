@@ -10,7 +10,9 @@ Thus, in this work we present an easy to use `pip` library for the model **MedIm
 
 As mentioned above, the library can easily installed via pip:
 
-`pip install medimageinsights`
+```python
+pip install medimageinsights
+```
 
 ## 📝 Tutorials
 
