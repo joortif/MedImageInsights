@@ -15,14 +15,14 @@ install_reqs = parse_requirements("requirements.txt")
 setup(
     name = 'MedImageInsights',
 
-    version = '0.1.14',
+    version = '0.1.1',
 
     author = 'Joaquin Ortiz de Murua Ferrero',
     author_email = 'joortif@unirioja.es',
     maintainer= 'Joaquin Ortiz de Murua Ferrero',
     maintainer_email= 'joortif@unirioja.es',
 
-    url='https://huggingface.co/joortif/medimageinsights',
+    url='https://github.com/joortif/MedImageInsights',
 
     description = 'Library for MedImageInsight: Open-Source Medical Image Embedding Model',
 

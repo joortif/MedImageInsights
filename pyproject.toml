@@ -1,6 +1,6 @@
 [project]
 name = "MedImageInsights"
-version = "0.1.14"
+version = "0.1.1"
 description = "Pip library for MedImageInsights medical model"
 readme = "README.md"
 requires-python = ">=3.8.19"

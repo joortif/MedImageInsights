@@ -8,5 +8,4 @@ wheels/
 .venv
 
 MedImageInsights/v20240927/vision_model/
-tests/
 .idea/
